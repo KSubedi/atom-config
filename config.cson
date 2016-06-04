@@ -8,6 +8,8 @@
       "seti-syntax"
     ]
   editor:
+    fontFamily: "Source Code Pro"
+    fontSize: 16
     tabLength: 4
   "exception-reporting":
     userId: "88f65061-355c-2ba5-ed94-9999171a336e"
